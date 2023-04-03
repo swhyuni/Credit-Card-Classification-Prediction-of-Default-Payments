@@ -1,3 +1,3 @@
 ## Credit-Card-Classification-Prediction-of-Default-Payments
 
-Prediksi classification credit card menggunakan machine learning menggunakan supervised learning 7 model algoritma default dan cross validation untuk menemukan model terbaik
+Credit card classification prediction using machine learning using supervised learning 7 default algorithm models and cross validation to find the best model
